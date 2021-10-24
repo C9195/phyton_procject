@@ -1,2 +1,2 @@
 # phyton_procject
-bu repo python projeleri için kullanılacaktır
+bu repo itf python projeleri içerir
